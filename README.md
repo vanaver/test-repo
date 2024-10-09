@@ -1,3 +1,4 @@
 # test-repo
 какая-то база
 добавмл строку в сюда да
+yt;tkfntkmysq rffr
